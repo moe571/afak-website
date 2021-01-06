@@ -1,0 +1,185 @@
+@media (max-width: 768px) {
+
+.navbar-brand {
+	padding-bottom: 3% !important;
+	width: 100% !important;
+	height: 100% !important;
+}
+#my-navbar {
+	height: 60px;
+	margin-top: 0px !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	width: 100% !important;
+}
+.navbar-brand img {
+	position: absolute;
+	top: 2px;
+	width: 60px !important;
+	height: 60px !important;
+	left: 2%;
+}
+.navbar-collapse {
+	margin-top: 0px !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	width: 100% !important;
+	height: 100% !important;
+}
+.navbar-nav {
+	background: #FFF;
+	color: #000;
+	margin-top: 0px !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	width: 100% !important;
+	height: 100% !important;
+}
+.navbar-nav a {
+	margin: 0px !important;
+	width: 100% !important;
+	height: 100% !important;
+	color: #000 !important;
+	text-align: center;
+}
+nav i {
+  background: transparent !important;
+  width: 30px;
+  height: 30px;
+  border: 1px #000 solid;
+  border-radius: 100%;
+  padding: 2%;
+}
+
+
+
+
+
+
+
+
+.carousel-caption h3 {
+	color: #FFF;
+	margin-top: -100% !important;
+	padding: 0px !important;
+
+}
+.item {
+  	padding: 0px;
+}
+.item2 h3 {
+	font-size: 1.8em !important;
+	margin-top: -160% !important;
+}
+.item2 a {
+	margin-bottom: 60% !important;
+	width: 100% !important;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.carousel-caption p {
+    font-size: 18px;
+    top: 0;
+    bottom: 0;
+    margin: 0px !important;
+	padding: 0px !important;
+
+}
+
+.carousel-caption a {
+	font-size: 14px;
+}
+
+
+
+.tabbable-panel {
+  border:1px solid #eee;
+  padding: 10px;
+}
+
+.about-us {
+  padding-bottom: 8%;
+}
+
+
+.our-activities {
+  height: 100% !important;
+
+}
+
+
+.upcoming-event {
+  height: 100% !important;
+}
+.event-panel {
+  background: #FFF;
+  height: 100%;
+  font-family: "jazeera";
+
+}
+
+.newsletter {
+  height: 100%;
+  position: relative;
+  width: 100%;
+  padding: 3%;
+  margin-bottom: 3%;
+
+}
+
+.newsletter h4 {
+  text-align: center;
+}
+
+.newsletter p {
+  text-align: center;
+}
+
+
+
+.subscribe {
+  width: 100%;
+}
+.subscribe input {
+  margin-bottom: 2%;
+  margin-top: 6%;
+}
+
+footer img {
+  width: 30%;
+  margin-top: 15%;
+}
+
+
+
+
+
+
+
+.parallax1, .parallax2, .parallax3 {
+  background-position: center center !important;
+}
+.parallax3 {
+  height: 100%;
+
+}
+.quote .container {
+  font-size: 20px;
+}
+
+.castellum img {
+  width: 50%;
+
+}
+
+.castellum {
+  padding: 6%;
+}
+.castellum p {
+
+  margin-bottom: 5%;
+  width: 90%;
+
+}
+
+}
